@@ -1,4 +1,5 @@
 import React from 'react'
+import Loading from './common/Loading'
 
 const Home = () => {
     return (
